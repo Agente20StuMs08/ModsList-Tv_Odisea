@@ -6,6 +6,11 @@
             "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/accessories-neoforge-1.0.0-beta.48+1.20.1.jar"
         },
         {
+            "name": "amendments-1.20-2.2.6.jar",
+            "folder": "mods",
+            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/amendments-1.20-2.2.6.jar"
+        },
+        {
             "name": "Apotheosis-1.20.1-7.4.8.jar",
             "folder": "mods",
             "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/Apotheosis-1.20.1-7.4.8.jar"
@@ -34,6 +39,11 @@
             "name": "BetterThirdPerson-Forge-1.20-1.9.0.jar",
             "folder": "mods",
             "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/BetterThirdPerson-Forge-1.20-1.9.0.jar"
+        },
+        {
+            "name": "boss-refreshed-v2-1.19-1.21.zip",
+            "folder": "resourcepacks",
+            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/boss-refreshed-v2-1.19-1.21.zip"
         },
         {
             "name": "catjammies-1.20.1-1.6.2.jar",
@@ -91,6 +101,11 @@
             "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/eatinganimation-1.20.1-5.1.0.jar"
         },
         {
+            "name": "Enchantment Glows 1.9 1.20.x.zip",
+            "folder": "resourcepacks",
+            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/Enchantment Glows 1.9 1.20.x.zip"
+        },
+        {
             "name": "endrem_forge-5.3.3-R-1.20.1.jar",
             "folder": "mods",
             "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/endrem_forge-5.3.3-R-1.20.1.jar"
@@ -104,6 +119,11 @@
             "name": "entity_texture_features-7.2.6-1.20.1-forge.jar",
             "folder": "mods",
             "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/entity_texture_features-7.2.6-1.20.1-forge.jar"
+        },
+        {
+            "name": "FA+Player-v1.1.zip",
+            "folder": "resourcepacks",
+            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/FA+Player-v1.1.zip"
         },
         {
             "name": "fabric-api-0.92.6+1.11.15+1.20.1.jar",
@@ -161,6 +181,16 @@
             "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/holdmyitems-1.20.1v2.1.jar"
         },
         {
+            "name": "Iceberg-1.20.1-forge-1.1.25.jar",
+            "folder": "mods",
+            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/Iceberg-1.20.1-forge-1.1.25.jar"
+        },
+        {
+            "name": "Icons v.1.14.zip",
+            "folder": "resourcepacks",
+            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/Icons v.1.14.zip"
+        },
+        {
             "name": "immersive_weathering-1.20.1-2.0.5-forge.jar",
             "folder": "mods",
             "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/immersive_weathering-1.20.1-2.0.5-forge.jar"
@@ -189,6 +219,11 @@
             "name": "lootr-forge-1.20-0.7.35.94.jar",
             "folder": "mods",
             "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/lootr-forge-1.20-0.7.35.94.jar"
+        },
+        {
+            "name": "MandalasGUI+Dakmode_1.21.8_v2.5.zip",
+            "folder": "resourcepacks",
+            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/MandalasGUI+Dakmode_1.21.8_v2.5.zip"
         },
         {
             "name": "MoogsNetherStructures-universal-1.20-3.1.0.jar",
@@ -236,19 +271,14 @@
             "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
         },
         {
+            "name": "Prism-1.20.1-forge-1.0.5.jar",
+            "folder": "mods",
+            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/Prism-1.20.1-forge-1.0.5.jar"
+        },
+        {
             "name": "Quark-4.0-462.jar",
             "folder": "mods",
             "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/Quark-4.0-462.jar"
-        },
-        {
-            "name": "rechiseled-1.2.6-forge-mc1.20.1.jar",
-            "folder": "mods",
-            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/rechiseled-1.2.6-forge-mc1.20.1.jar"
-        },
-        {
-            "name": "rechiseled_chipped-2.0-1.20.1.jar",
-            "folder": "mods",
-            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/rechiseled_chipped-2.0-1.20.1.jar"
         },
         {
             "name": "resourcefullib-forge-1.20.1-2.1.29.jar",
@@ -271,6 +301,16 @@
             "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/skinlayers3d-forge-1.11.3-mc1.20.1.jar"
         },
         {
+            "name": "sophisticatedbackpacks-1.20.1-3.26.12.2206.jar",
+            "folder": "mods",
+            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/sophisticatedbackpacks-1.20.1-3.26.12.2206.jar"
+        },
+        {
+            "name": "sophisticatedcore-1.20.1-1.5.12.2412.jar",
+            "folder": "mods",
+            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/sophisticatedcore-1.20.1-1.5.12.2412.jar"
+        },
+        {
             "name": "spell_engine-forge-1.10.10+1.20.1.jar",
             "folder": "mods",
             "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/spell_engine-forge-1.10.10+1.20.1.jar"
@@ -279,6 +319,11 @@
             "name": "spell_power-forge-1.6.1+1.20.1.jar",
             "folder": "mods",
             "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/spell_power-forge-1.6.1+1.20.1.jar"
+        },
+        {
+            "name": "Stay Clear V1.1 [1.20.1].zip",
+            "folder": "resourcepacks",
+            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/Stay Clear V1.1 [1.20.1].zip"
         },
         {
             "name": "structure_pool_api-forge-1.2.1+1.20.1.jar",
@@ -316,9 +361,9 @@
             "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/tru.e-ending-v1.1.0c.jar"
         },
         {
-            "name": "uniqueaccessories-1.3.3-forge-mc1.20.1.jar",
+            "name": "uniqueaccessories-2.0.0-forge-mc1.20.1.jar",
             "folder": "mods",
-            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/uniqueaccessories-1.3.3-forge-mc1.20.1.jar"
+            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/uniqueaccessories-2.0.0-forge-mc1.20.1.jar"
         },
         {
             "name": "xaerominimap-forge-1.20.1-26.6.0.jar",
@@ -339,52 +384,6 @@
             "name": "Zeta-1.0-31.jar",
             "folder": "mods",
             "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/Zeta-1.0-31.jar"
-        },
-        {
-            "name": "Prism-1.20.1-forge-1.0.5.jar",
-            "folder": "mods",
-            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/Prism-1.20.1-forge-1.0.5.jar"
-        },
-        {
-            "name": "Iceberg-1.20.1-forge-1.1.25.jar",
-            "folder": "mods",
-            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/Iceberg-1.20.1-forge-1.1.25.jar"
-        },
-        {
-            "name": "amendments-1.20-2.2.6.jar",
-            "folder": "mods",
-            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/amendments-1.20-2.2.6.jar"
-        },
-      
-        {
-            "name": "boss-refreshed-v2-1.19-1.21.zip",
-            "folder": "resourcepacks",
-            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/boss-refreshed-v2-1.19-1.21.zip"
-        },
-        {
-            "name": "Enchantment Glows 1.9 1.20.x.zip",
-            "folder": "resourcepacks",
-            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/Enchantment Glows 1.9 1.20.x.zip"
-        },
-        {
-            "name": "FA+Player-v1.1.zip",
-            "folder": "resourcepacks",
-            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/FA+Player-v1.1.zip"
-        },
-        {
-            "name": "Icons v.1.14.zip",
-            "folder": "resourcepacks",
-            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/Icons v.1.14.zip"
-        },
-        {
-            "name": "MandalasGUI+Dakmode_1.21.8_v2.5.zip",
-            "folder": "resourcepacks",
-            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/MandalasGUI+Dakmode_1.21.8_v2.5.zip"
-        },
-        {
-            "name": "Stay Clear V1.1 [1.20.1].zip",
-            "folder": "resourcepacks",
-            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/Stay Clear V1.1 [1.20.1].zip"
         },
         {
             "name": "§6Immersive_Interfaces_Farmersdelight1.20-26.x.zip",
