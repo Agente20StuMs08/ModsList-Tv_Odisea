@@ -360,6 +360,11 @@
             "folder": "mods",
             "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/Iceberg-1.20.1-forge-1.1.25.jar"
         },
+        {
+            "name": "amendments-1.20-2.2.6.jar",
+            "folder": "mods",
+            "url": "https://github.com/Agente20StuMs08/ModsList-Tv_Odisea/releases/download/mod/amendments-1.20-2.2.6.jar"
+        },
       
         {
             "name": "boss-refreshed-v2-1.19-1.21.zip",
